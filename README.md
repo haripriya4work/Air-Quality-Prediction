@@ -15,3 +15,6 @@ Scalable and Adaptable Solution: Develop a solution that can be tailored to diff
 The project represents a significant advancement in environmental analytics, aiming to mitigate the impacts of pollution and improve public health through accurate and actionable air quality forecasts.
 
 ![output1](https://github.com/user-attachments/assets/921f5d08-10d2-4869-bf2e-c4d3712de90b)
+
+
+![output](https://github.com/user-attachments/assets/a8ef4713-cfd3-46ee-992a-a21c2354f521)
